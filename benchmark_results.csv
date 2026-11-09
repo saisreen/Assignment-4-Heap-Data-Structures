@@ -1,0 +1,37 @@
+size,distribution,algorithm,median_ms
+100,sorted,Heapsort,0.0928
+100,sorted,Quicksort,0.0775
+100,sorted,Merge Sort,0.0535
+100,reverse,Heapsort,0.074
+100,reverse,Quicksort,0.0709
+100,reverse,Merge Sort,0.0519
+100,random,Heapsort,0.0825
+100,random,Quicksort,0.0693
+100,random,Merge Sort,0.0639
+100,duplicates,Heapsort,0.0789
+100,duplicates,Quicksort,0.0318
+100,duplicates,Merge Sort,0.0625
+1000,sorted,Heapsort,1.453
+1000,sorted,Quicksort,1.2158
+1000,sorted,Merge Sort,0.8667
+1000,reverse,Heapsort,1.2652
+1000,reverse,Quicksort,1.2407
+1000,reverse,Merge Sort,0.8569
+1000,random,Heapsort,1.3949
+1000,random,Quicksort,1.3557
+1000,random,Merge Sort,1.0973
+1000,duplicates,Heapsort,1.2611
+1000,duplicates,Quicksort,0.2989
+1000,duplicates,Merge Sort,1.0321
+5000,sorted,Heapsort,9.4645
+5000,sorted,Quicksort,7.8737
+5000,sorted,Merge Sort,5.6762
+5000,reverse,Heapsort,8.6561
+5000,reverse,Quicksort,8.548
+5000,reverse,Merge Sort,5.5075
+5000,random,Heapsort,9.2923
+5000,random,Quicksort,7.8541
+5000,random,Merge Sort,7.03
+5000,duplicates,Heapsort,8.4408
+5000,duplicates,Quicksort,1.5965
+5000,duplicates,Merge Sort,6.6912
